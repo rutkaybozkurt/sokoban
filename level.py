@@ -1,4 +1,5 @@
-import os,copy
+import os
+import copy
 
 
 class Level:
